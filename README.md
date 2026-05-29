@@ -201,6 +201,6 @@ Para informações detalhadas sobre a metodologia, análises estatísticas e vis
 
 **SpaceRiskIA** - Prevenção através da Inteligência Artificial 🌍🤖
 
-*Desenvolvido como parte do Global Solution - FIAP 2024*
+*Desenvolvido como parte do Global Solution - FIAP 2026*
 
 </div>
